@@ -15,6 +15,11 @@ A **production-ready, end-to-end decentralized dApp** built on Stellar/Soroban f
 
 ## 🔗 Contract Explorer & Key Credentials
 
+> [!IMPORTANT]
+> **🌟 Primary Contract Deployment Address (Main Submission Entry Point):**
+> [`CCCOM4GDC6VFLEPG2AN7NSSUMVYXUDEWSNL5DNFZZOCNBWN3XU3AURYC`](https://stellar.expert/explorer/testnet/contract/CCCOM4GDC6VFLEPG2AN7NSSUMVYXUDEWSNL5DNFZZOCNBWN3XU3AURYC)
+> *(This is the core entry point contract that locks funds in escrow, calculates fee savings, and manages path payments).*
+
 | Resource / Role | Value / Explorer Link |
 | :--- | :--- |
 | **RemittanceRouter Contract ID** | [`CCCOM4GDC6VFLEPG2AN7NSSUMVYXUDEWSNL5DNFZZOCNBWN3XU3AURYC`](https://stellar.expert/explorer/testnet/contract/CCCOM4GDC6VFLEPG2AN7NSSUMVYXUDEWSNL5DNFZZOCNBWN3XU3AURYC) |
