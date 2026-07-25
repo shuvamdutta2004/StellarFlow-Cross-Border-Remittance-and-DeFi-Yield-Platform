@@ -3,7 +3,7 @@
 mod types;
 
 use soroban_sdk::{
-    contract, contractimpl, contractmeta, log, symbol_short, token, Address, Env, String, Symbol,
+    contract, contractimpl, contractmeta, symbol_short, token, Address, Env, String,
 };
 use types::{DataKey, Remittance, RemittanceStatus};
 

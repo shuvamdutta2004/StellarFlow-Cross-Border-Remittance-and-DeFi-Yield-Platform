@@ -1,8 +1,6 @@
-#![no_std]
+use soroban_sdk::{contracttype, Address, String};
 
-use soroban_sdk::{contracttype, Address, String, Symbol};
-
-#[derive(Clone, PartialEq, Debug)]
+#[derive(Clone, Copy, PartialEq, Debug)]
 #[contracttype]
 pub enum RemittanceStatus {
     Pending = 0,
