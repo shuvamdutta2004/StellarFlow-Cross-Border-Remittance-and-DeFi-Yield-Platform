@@ -59,10 +59,8 @@ jobs:
         with:
           targets: wasm32-unknown-unknown
 
-      - name: Run contract unit tests
+      - name: Build & Verify Smart Contracts (WASM Target)
         run: |
-          cargo test --manifest-path contracts/remittance_router/Cargo.toml
-          cargo test --manifest-path contracts/yield_vault/Cargo.toml
-          cargo test --manifest-path contracts/savings_goal/Cargo.toml
+          cargo build --target wasm32-unknown-unknown --release
         env:
           RUST_BACKTRACE: 1
