@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: production
-      url: https://stellar-flow.vercel.app
+      url: https://stellar-flow-cross-border-remittanc.vercel.app
 
     steps:
       - name: Checkout repository
