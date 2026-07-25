@@ -17,9 +17,10 @@ A **production-ready, end-to-end decentralized dApp** built on Stellar/Soroban f
 
 | Resource / Role | Value / Explorer Link |
 | :--- | :--- |
-| **RemittanceRouter Contract ID** | [`CB73XRZ6K7O3VJH5G7Y6Y5N2L6A8K4M1N9P2Q5R8S1T4U7V0W3X6Y9Z2`](https://stellar.expert/explorer/testnet/contract/CB73XRZ6K7O3VJH5G7Y6Y5N2L6A8K4M1N9P2Q5R8S1T4U7V0W3X6Y9Z2) |
-| **YieldVault Contract ID** | [`CDLZFC3SYJYDZT7K67VZ75HPJVIEUVNIXF47ZG2FB2RMQQVU2HHGCYSC`](https://stellar.expert/explorer/testnet/contract/CDLZFC3SYJYDZT7K67VZ75HPJVIEUVNIXF47ZG2FB2RMQQVU2HHGCYSC) |
-| **SavingsGoal Contract ID** | [`CANWI4UO2NHX3PJD6VDSHTXJHNPRBATL5VRBDCNQATUQW2LUWF4YM4JP`](https://stellar.expert/explorer/testnet/contract/CANWI4UO2NHX3PJD6VDSHTXJHNPRBATL5VRBDCNQATUQW2LUWF4YM4JP) |
+| **RemittanceRouter Contract ID** | [`CCCOM4GDC6VFLEPG2AN7NSSUMVYXUDEWSNL5DNFZZOCNBWN3XU3AURYC`](https://stellar.expert/explorer/testnet/contract/CCCOM4GDC6VFLEPG2AN7NSSUMVYXUDEWSNL5DNFZZOCNBWN3XU3AURYC) |
+| **YieldVault Contract ID** | [`CBMFYE434L3XK4XSTFDXRPABU3KOFRFOKABEUOGTCGTPGLASYB2GF4LA`](https://stellar.expert/explorer/testnet/contract/CBMFYE434L3XK4XSTFDXRPABU3KOFRFOKABEUOGTCGTPGLASYB2GF4LA) |
+| **SavingsGoal Contract ID** | [`CAGIFCUOWD3W4QMWMK2ZLZNYJOLF6HHNQ4K2UGFQGB7MXUSLOWDVWVS2`](https://stellar.expert/explorer/testnet/contract/CAGIFCUOWD3W4QMWMK2ZLZNYJOLF6HHNQ4K2UGFQGB7MXUSLOWDVWVS2) |
+| **Deployer Wallet Address** | [`GC45MTVQ7DZJ2JAEVQWXJ5BNO4DY6AXEZSBGL7RVUKOOG7GXREV73VGW`](https://stellar.expert/explorer/testnet/account/GC45MTVQ7DZJ2JAEVQWXJ5BNO4DY6AXEZSBGL7RVUKOOG7GXREV73VGW) |
 | **Freighter Wallet Address** | [`GDSFFHT4YTWUFV4GI7KROZPPLN5LEEJPUR24HTO4BDJPGZVPV3PPKIOG`](https://stellar.expert/explorer/testnet/account/GDSFFHT4YTWUFV4GI7KROZPPLN5LEEJPUR24HTO4BDJPGZVPV3PPKIOG) |
 | **Live Deployment** | [stellar-flow.vercel.app](https://stellar-flow.vercel.app) |
 | **Demo Video Link** | [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1c2Dgrx2lHIdP5ki39-opCLN55rZZJ_mn/view?usp=sharing) |
