@@ -28,7 +28,7 @@ A **production-ready, end-to-end decentralized dApp** built on Stellar/Soroban f
 | **Deployer Wallet Address** | [`GC45MTVQ7DZJ2JAEVQWXJ5BNO4DY6AXEZSBGL7RVUKOOG7GXREV73VGW`](https://stellar.expert/explorer/testnet/account/GC45MTVQ7DZJ2JAEVQWXJ5BNO4DY6AXEZSBGL7RVUKOOG7GXREV73VGW) |
 | **Freighter Wallet Address** | [`GDSFFHT4YTWUFV4GI7KROZPPLN5LEEJPUR24HTO4BDJPGZVPV3PPKIOG`](https://stellar.expert/explorer/testnet/account/GDSFFHT4YTWUFV4GI7KROZPPLN5LEEJPUR24HTO4BDJPGZVPV3PPKIOG) |
 | **Live Deployment** | [stellar-flow-cross-border-remittanc.vercel.app](https://stellar-flow-cross-border-remittanc.vercel.app) |
-| **Demo Video Link** | [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1c2Dgrx2lHIdP5ki39-opCLN55rZZJ_mn/view?usp=sharing) |
+| **Demo Video Link** | [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1aM0NfLm9eocSIrAoBmcSo2Xybec51HFz/view?usp=sharing) |
 
 ---
 
