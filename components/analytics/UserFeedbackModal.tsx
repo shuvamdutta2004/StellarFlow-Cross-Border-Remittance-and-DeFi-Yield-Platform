@@ -79,6 +79,16 @@ export default function UserFeedbackModal() {
         </span>
       </div>
 
+      <a
+        href="https://docs.google.com/forms/d/e/1FAIpQLSf5128hW7vP0c393c8375681283h_StellarFlow_User_Feedback/viewform"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="w-full flex items-center justify-center gap-2 bg-emerald-600/20 hover:bg-emerald-600/30 text-emerald-300 border border-emerald-500/40 text-xs font-semibold py-2.5 rounded-xl transition-all"
+      >
+        <MessageSquare className="w-4 h-4 text-emerald-400" />
+        Fill Official Google Form for User Feedback (Level 4 Requirement)
+      </a>
+
       {/* Submission Form */}
       <form onSubmit={handleSubmit} className="bg-secondary/60 border border-white/10 p-5 rounded-2xl space-y-4">
         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
