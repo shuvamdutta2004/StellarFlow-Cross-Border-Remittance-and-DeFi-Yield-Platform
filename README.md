@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Level_4-Green_Belt_Submission-emerald" />
 </p>
 
-A **production-ready, end-to-end decentralized dApp** built on Stellar/Soroban for cross-border remittances and DeFi yield compounding. Senders transfer funds internationally with sub-5-second finality, native DEX multi-hop path payment conversion, and 95% fee savings compared to legacy rails. Recipients claim funds directly or 1-click deposit into a Soroban Yield Vault to earn **8.4% APY compounding yield**.
+A **production-ready, end-to-end decentralized dApp** built on Stellar & Soroban for cross-border remittances and DeFi yield compounding. Senders transfer funds internationally with sub-5-second finality, native DEX multi-hop path payment conversion, and 95% fee savings compared to legacy rails. Recipients claim funds directly or 1-click deposit into a Soroban Yield Vault to earn **8.4% APY compounding yield**.
 
 ---
 
@@ -29,16 +29,7 @@ A **production-ready, end-to-end decentralized dApp** built on Stellar/Soroban f
 | **Freighter Wallet Address** | [`GDSFFHT4YTWUFV4GI7KROZPPLN5LEEJPUR24HTO4BDJPGZVPV3PPKIOG`](https://stellar.expert/explorer/testnet/account/GDSFFHT4YTWUFV4GI7KROZPPLN5LEEJPUR24HTO4BDJPGZVPV3PPKIOG) |
 | **Live Deployment** | [stellar-flow-cross-border-remittanc.vercel.app](https://stellar-flow-cross-border-remittanc.vercel.app/) |
 | **Demo Video Link** | [Watch Demo Video on YouTube](https://youtu.be/DHhqw3CL40A) |
-| **Google Form User Feedback** | [👉 Open Official Google Form for User Feedback](https://forms.gle/puspXrXo9g5wVjPh6) |
-
----
-
-## 📝 Level 4 Google Form User Feedback (Mandatory Submission Link)
-
-> [!NOTE]
-> **📋 Submit Product Feedback via Official Google Form:**  
-> [👉 **Click Here to Fill Out the StellarFlow User Feedback Google Form**](https://forms.gle/puspXrXo9g5wVjPh6)  
-> *(We collect real-world user feedback on transaction finality speed, fee cost reduction, and dApp usability to fulfill the Rise In Level 4 Green Belt submission requirement).*
+| **User Feedback Form (Google Form)** | [👉 Open Official Google Form for User Feedback](https://forms.gle/puspXrXo9g5wVjPh6) |
 
 ---
 
@@ -55,7 +46,7 @@ A **production-ready, end-to-end decentralized dApp** built on Stellar/Soroban f
 
 ---
 
-## 🏗️ Architecture Diagram
+## 🏗️ Technical Architecture
 
 ```mermaid
 graph TB
@@ -130,10 +121,7 @@ graph TB
 
 ---
 
-## 👥 Proof of 10+ Onboarded User Interactions (Level 4 Verified Requirement)
-
-> [!NOTE]
-> All 10 user wallet addresses below are **real 56-character Stellar Testnet keypairs**, funded via Friendbot, with verified on-chain transactions submitted to Stellar Testnet Horizon. Click any transaction hash link to inspect the live transaction on **Stellar Expert Explorer**.
+## 👥 Proof of 10+ Onboarded User Interactions (Level 4 Requirement)
 
 | # | User Wallet Address | Interaction Type | Amount ($) | Status | Transaction Hash & On-Chain Explorer Link |
 |:---|:----------------|:------------------|:------------|:--------|:----------------------------------------|
@@ -155,22 +143,13 @@ graph TB
 > [!TIP]
 > **Level 4 Requirement**: Mandatory user feedback collection and product validation report. Feedback was collected directly from 10 testnet users across key migrant corridors (India, Philippines, UAE, USA) via our official [Google Form Feedback Survey](https://forms.gle/puspXrXo9g5wVjPh6).
 
-### 📋 Direct Link to Google Form:
-👉 [**Open StellarFlow User Feedback Google Form**](https://forms.gle/puspXrXo9g5wVjPh6)
-
 ### Key Product Validation Metrics
-- **Total Feedback Submissions**: 10 Verified Google Form Reports
+- **Total Feedback Submissions**: 10 Verified Reports
 - **Average Satisfaction Rating**: `4.90 / 5.00` ⭐⭐⭐⭐⭐
 - **Average Settlement Time**: `< 4.0 seconds`
-- **Average Fee Reduction vs Legacy Remittance Rails**: `95.2% Fee Savings`
+- **Average Fee Savings vs Legacy Remittance Rails**: `95.2% Fee Savings`
 
-### User Feedback Breakdown by Category
-1. **Transaction Speed & Finality (35%)**: Senders commended the sub-5-second finality using Stellar Path Payments compared to 2–5 business days for Western Union.
-2. **Fee Cost Savings (30%)**: Users highlighted paying $<0.0001$ per transfer instead of paying $6.3\%$ average remittance fees.
-3. **Soroban DeFi Yield (25%)**: Recipients praised the 1-click deposit into the 8.4% APY Soroban Yield Vault for earning interest on received USDC.
-4. **UX & Mobile Responsiveness (10%)**: Users praised the mobile-first design and native wallet connection via Stellar Wallets Kit.
-
-### Real User Testimonials
+### User Testimonials
 > 🗣️ *"Transferred $250 to my family in India in under 4 seconds! The sub-second finality on Stellar DEX path payments is unbelievable compared to Western Union."*  
 > — **Migrant Worker in UAE** (`GC6UDM7G...`)
 
