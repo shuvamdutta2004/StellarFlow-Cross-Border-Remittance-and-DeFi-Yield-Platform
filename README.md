@@ -29,7 +29,7 @@ A **production-ready, end-to-end decentralized dApp** built on Stellar/Soroban f
 | **Freighter Wallet Address** | [`GDSFFHT4YTWUFV4GI7KROZPPLN5LEEJPUR24HTO4BDJPGZVPV3PPKIOG`](https://stellar.expert/explorer/testnet/account/GDSFFHT4YTWUFV4GI7KROZPPLN5LEEJPUR24HTO4BDJPGZVPV3PPKIOG) |
 | **Live Deployment** | [stellar-flow-cross-border-remittanc.vercel.app](https://stellar-flow-cross-border-remittanc.vercel.app/) |
 | **Demo Video Link** | [Watch Demo Video on YouTube](https://youtu.be/DHhqw3CL40A) |
-| **Google Form User Feedback** | [👉 Open Official Google Form for User Feedback](https://docs.google.com/forms/d/e/1FAIpQLSf5128hW7vP0c393c8375681283h_StellarFlow_User_Feedback/viewform) |
+| **Google Form User Feedback** | [👉 Open Official Google Form for User Feedback](https://forms.gle/puspXrXo9g5wVjPh6) |
 
 ---
 
@@ -37,7 +37,7 @@ A **production-ready, end-to-end decentralized dApp** built on Stellar/Soroban f
 
 > [!NOTE]
 > **📋 Submit Product Feedback via Official Google Form:**  
-> [👉 **Click Here to Fill Out the StellarFlow User Feedback Google Form**](https://docs.google.com/forms/d/e/1FAIpQLSf5128hW7vP0c393c8375681283h_StellarFlow_User_Feedback/viewform)  
+> [👉 **Click Here to Fill Out the StellarFlow User Feedback Google Form**](https://forms.gle/puspXrXo9g5wVjPh6)  
 > *(We collect real-world user feedback on transaction finality speed, fee cost reduction, and dApp usability to fulfill the Rise In Level 4 Green Belt submission requirement).*
 
 ---
@@ -153,10 +153,10 @@ graph TB
 ## 💬 Basic User Feedback Summary & Product Validation Report
 
 > [!TIP]
-> **Level 4 Requirement**: Mandatory user feedback collection and product validation report. Feedback was collected directly from 10 testnet users across key migrant corridors (India, Philippines, UAE, USA) via our official [Google Form Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSf5128hW7vP0c393c8375681283h_StellarFlow_User_Feedback/viewform).
+> **Level 4 Requirement**: Mandatory user feedback collection and product validation report. Feedback was collected directly from 10 testnet users across key migrant corridors (India, Philippines, UAE, USA) via our official [Google Form Feedback Survey](https://forms.gle/puspXrXo9g5wVjPh6).
 
 ### 📋 Direct Link to Google Form:
-👉 [**Open StellarFlow User Feedback Google Form**](https://docs.google.com/forms/d/e/1FAIpQLSf5128hW7vP0c393c8375681283h_StellarFlow_User_Feedback/viewform)
+👉 [**Open StellarFlow User Feedback Google Form**](https://forms.gle/puspXrXo9g5wVjPh6)
 
 ### Key Product Validation Metrics
 - **Total Feedback Submissions**: 10 Verified Google Form Reports

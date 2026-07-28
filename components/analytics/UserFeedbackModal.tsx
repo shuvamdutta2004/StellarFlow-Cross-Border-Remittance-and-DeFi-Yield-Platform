@@ -80,7 +80,7 @@ export default function UserFeedbackModal() {
       </div>
 
       <a
-        href="https://docs.google.com/forms/d/e/1FAIpQLSf5128hW7vP0c393c8375681283h_StellarFlow_User_Feedback/viewform"
+        href="https://forms.gle/puspXrXo9g5wVjPh6"
         target="_blank"
         rel="noopener noreferrer"
         className="w-full flex items-center justify-center gap-2 bg-emerald-600/20 hover:bg-emerald-600/30 text-emerald-300 border border-emerald-500/40 text-xs font-semibold py-2.5 rounded-xl transition-all"
